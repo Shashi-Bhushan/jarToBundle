@@ -1,4 +1,4 @@
-package com.github.jartobundle;
+package com.github.jartobundle.jar;
 
 /**
  * Created by Shashi on 12/22/2016.

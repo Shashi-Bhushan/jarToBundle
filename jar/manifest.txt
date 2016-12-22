@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: Shashi
+Bundle-ManifestVersion: 2
+Bundle-Name: JarToBundle Jar
+Bundle-Description: Package Jar in an OSGi bundle
+Bundle-Version: 4.4.0
+Bundle-ClassPath: .,JarToBundle-jar-1.0-SNAPSHOT.jar
+Bundle-SymbolicName: Jar To Bundle 1.0 SNAPSHOT
+Export-Package: com.github.jartobundle.jar;
