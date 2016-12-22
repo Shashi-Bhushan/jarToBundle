@@ -4,3 +4,5 @@ c - Create Jar
 v - Verbose
 f - File Name
 m - Manifest File to use
+
+When you have to convert packaging from pom to bundle, add ``maven-bundle-plugin`` and also, use ``mvn install`` to create a bundle under target directory.
